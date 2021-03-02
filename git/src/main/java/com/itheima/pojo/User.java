@@ -15,7 +15,10 @@ public class User {
     private String addr;
 	
 	//git_test2新增内容
-	private String git_test2_clone;		
+	private String git_test2_clone;
+
+    //git_test2新增内容2
+    private String git_test2_clone222;
 
     //git新增内容
     private String git;
