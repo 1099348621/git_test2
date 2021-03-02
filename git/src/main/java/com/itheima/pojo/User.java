@@ -20,6 +20,9 @@ public class User {
     //git_test2新增内容2
     private String git_test2_clone222;
 
+    //git_test2新增内容3
+    private String git_test2_clone333;
+
     //git新增内容
     private String git;
 
