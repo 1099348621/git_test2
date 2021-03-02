@@ -13,6 +13,9 @@ public class User {
     private Integer age;
 
     private String addr;
+	
+	//git_test2新增内容
+	private String git_test2_clone;		
 
     public User() {
     }
