@@ -14,6 +14,9 @@ public class User {
 
     private String addr;
 
+    //git新增内容
+    private String git;
+
     public User() {
     }
 
