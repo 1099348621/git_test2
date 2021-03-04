@@ -23,6 +23,9 @@ public class User {
     //dev分支新增内容
     private String dev;
 	
+   //远程仓库中新增内容2222222
+   private String remote;
+	
     //git_test2新增内容	
     private String git_test2_clone;
 
