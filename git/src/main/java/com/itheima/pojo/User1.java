@@ -16,6 +16,9 @@ public class User {
 	
    //远程仓库中新增内容
    private String remote;
+	
+//远程仓库中新增内
+   private String remote111;
 
     //新增内容
     private String new;
