@@ -20,6 +20,9 @@ public class User {
     //新增内容
     private String new;
 
+    //新增内容11111
+    private String new1;
+
     //dev分支新增内容
     private String dev;
 

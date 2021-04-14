@@ -22,6 +22,9 @@ public class User {
 
     //dev分支新增内容
     private String dev;
+
+    //dev分支新增内容22222
+    private String dev;
 	
    //远程仓库中新增内容2222222
    private String remote;
